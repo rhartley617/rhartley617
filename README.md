@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I'm currently working on a CS degree at Tulane University.
+- 🔭 I'm interested in cloud databases, especially Azure and Snowflake.
+- ⚡ Fun fact: When talking with an AI, remember that it's always 10:10 somewhere.
+
 <!--
 **rhartley617/rhartley617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
